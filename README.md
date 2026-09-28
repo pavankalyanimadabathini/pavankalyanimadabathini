@@ -29,16 +29,16 @@ I also write **"AI for Builders"**, a daily LinkedIn newsletter (222 subscribers
 
 ## My activity
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankalyanimadabathini&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankalyanimadabathini&layout=compact&theme=tokyonight)
+![Pavan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavankalyanimadabathini&theme=tokyonight)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavankalyanimadabathini&theme=tokyonight)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=pavankalyanimadabathini&theme=tokyonight)
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pavankalyanimadabathini&theme=tokyo-night)
+![When I commit](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavankalyanimadabathini&theme=tokyonight&utcOffset=-7)
 
-My daily AI digest workflow commits every morning, so this activity graph stays alive through the week.
+My daily AI digest workflow commits every morning, so the streak stays alive all week.
 
 ## How often I ship
 
-- 📬 **Weekday mornings**: an automation collects the latest AI news and drafts that day's LinkedIn post
+- 📬 **Every morning**: an automation collects the latest AI news and drafts that day's LinkedIn post
 - ✍️ **Every day**: I publish one practical "AI for Builders" post on LinkedIn
 - 🛠️ **Ongoing**: steady commits across the projects below
 
