@@ -1,6 +1,4 @@
-![Pavan Kalyan Imadabathini, AI Engineer and Project Manager](banner.png)
-
-# Hi, I'm Pavan 👋
+![Pavan Kalyan Imadabathini terminal profile](terminal.svg)
 
 **Daily AI insights for builders | AI Engineer & Project Manager @ Celeix Digital | Python, Azure, AWS**
 
