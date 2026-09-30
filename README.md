@@ -1,5 +1,3 @@
-![Pavan Kalyan Imadabathini terminal profile](terminal.svg)
-
 **Daily AI insights for builders | AI Engineer & Project Manager @ Celeix Digital | Python, Azure, AWS**
 
 ## About me
