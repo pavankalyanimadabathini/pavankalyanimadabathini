@@ -45,19 +45,21 @@
   <!-- left panel -->
   <rect x="36" y="100" width="392" height="464" rx="14" fill="#0d1526" stroke="#155e75" stroke-width="1.5"/>
   <rect x="36" y="100" width="392" height="464" rx="14" fill="url(#scan)"/>
-  <text x="232" y="130" fill="#5b6472" font-size="13" text-anchor="middle" class="mono">VISUAL_MAP</text>
+  <text x="232" y="136" fill="#5b6472" font-size="13" text-anchor="middle" class="mono">FOCUS</text>
 
-  <!-- PK monogram -->
-  <g fill="#22d3ee" font-size="30" class="mono" text-anchor="middle" xml:space="preserve" filter="url(#softglow)">
-    <text x="232" y="230.0">█████  █   █</text>
-    <text x="232" y="266.0">█   █  █  █ </text>
-    <text x="232" y="302.0">█   █  █ █  </text>
-    <text x="232" y="338.0">█████  ██   </text>
-    <text x="232" y="374.0">█      █ █  </text>
-    <text x="232" y="410.0">█      █  █ </text>
-    <text x="232" y="446.0">█      █   █</text>
-  </g>
-  <text x="232" y="540" fill="#67e8f9" font-size="15" text-anchor="middle" letter-spacing="5" class="mono">AI ENGINEER</text> panel -->
+  <g class="mono" xml:space="preserve">
+    <text x="72" y="198" fill="#22d3ee" font-size="18">&gt; ai_engineering</text>
+    <text x="72" y="228" fill="#8b949e" font-size="15">Python · FastAPI · Azure · AWS</text>
+
+    <text x="72" y="284" fill="#22d3ee" font-size="18">&gt; data_platforms</text>
+    <text x="72" y="314" fill="#8b949e" font-size="15">PostgreSQL · Power BI · Azure Fabric</text>
+
+    <text x="72" y="370" fill="#22d3ee" font-size="18">&gt; delivery</text>
+    <text x="72" y="400" fill="#8b949e" font-size="15">Agile · roadmaps · stakeholders</text>
+
+    <text x="72" y="456" fill="#22d3ee" font-size="18">&gt; writing</text>
+    <text x="72" y="486" fill="#8b949e" font-size="15">AI for Builders, daily on LinkedIn</text>
+  </g> panel -->
   <circle cx="1085" cy="112" r="6" fill="#4ade80" filter="url(#softglow)"/>
   <text x="1098" y="117" fill="#4ade80" font-size="14" class="mono">online</text>
   <g font-size="19" class="mono">
